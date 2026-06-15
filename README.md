@@ -1,5 +1,5 @@
 # RADA 2D
-Virtual canon is a mini-project maked in python for undestand trigonometry.
+Rada 2D is a mini-project maked in python for undestand trigonometry.
 
 
 ---------------------------------------------------------------------
