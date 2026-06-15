@@ -1,5 +1,5 @@
-# RADA 2D
-Rada 2D is a mini-project maked in python for undestand trigonometry.
+# RADAR 2D
+Radar 2D is a mini-project maked in python for undestand trigonometry.
 
 
 ---------------------------------------------------------------------
